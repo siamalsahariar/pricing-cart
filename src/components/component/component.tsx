@@ -21,7 +21,7 @@ import { Button } from "@/components/ui/button"
 
 export function Pricing() {
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-background">
+    <div className="flex flex-col items-center justify-center min-h1-screen bg-background">
       <div className="max-w-3xl px-4 md:px-0">
         <div className="text-center space-y-4 mb-12">
           <h1 className="text-4xl font-bold tracking-tight">Acme SaaS</h1>
