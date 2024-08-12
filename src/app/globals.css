@@ -69,7 +69,7 @@
   .vh-screen {
     height: 100px;
   }
-  .min-h-screen {
+  .min-h1-screen {
     min-height: 50vh;
   }
 }
